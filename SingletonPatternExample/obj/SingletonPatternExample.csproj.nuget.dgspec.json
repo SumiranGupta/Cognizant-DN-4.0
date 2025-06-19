@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Desktop\\Cognizant_tasks\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj": {}
+    "C:\\Users\\KIIT\\Desktop\\Cognizant-DN-4.0\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Desktop\\Cognizant_tasks\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj": {
+    "C:\\Users\\KIIT\\Desktop\\Cognizant-DN-4.0\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Cognizant_tasks\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Cognizant-DN-4.0\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj",
         "projectName": "SingletonPatternExample",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\Cognizant_tasks\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Desktop\\Cognizant-DN-4.0\\Cognizant-DN-4.0\\SingletonPatternExample\\SingletonPatternExample.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Desktop\\Cognizant_tasks\\Cognizant-DN-4.0\\SingletonPatternExample\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Desktop\\Cognizant-DN-4.0\\Cognizant-DN-4.0\\SingletonPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"

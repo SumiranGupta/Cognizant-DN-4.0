@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.exe
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.deps.json
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.dll
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.pdb
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.sourcelink.json
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.dll
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\refint\Financial Forecasting.dll
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.pdb
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\Financial Forecasting\obj\Debug\net9.0\ref\Financial Forecasting.dll

@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.exe
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.deps.json
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.dll
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.pdb
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.sourcelink.json
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.dll
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\refint\EcommerceSearchApp.dll
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.pdb
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizant-DN-4.0\Week1_task\EcommerceSearchApp\obj\Debug\net9.0\ref\EcommerceSearchApp.dll
